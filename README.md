@@ -24,8 +24,8 @@ Receive paper IDs：<br>
 |[73.Object Re-identification](#73)|[72.Gaze Estimation](#72)|[71.Image-to-Image Translation](#71)|[70.NLP](#70)|[69.Transfer learning](#69)|
 |[68.Crowd Counting](#68)|[67.Defect Detection](#67)|[66.Optical Flow Estimation](#66)|[65.Style Transfer](#65)
 |[64.Speech processing](#64)|[63.Image Processing](#63)|[62.Free-Hand Sketches](#62)|[61.Algorithm](#61)|
-|[60. SLAM/AR/Robot](#60)|[59.Deep learning model](#59)|[58.Metric Learning/Similarity learning](#58)|[57.Sign Language Recognition(手语识别)](#57)|
-|[56.Computational Photography(光学、几何、光场成像、计算摄影)](#56)|[55.Graph Matching(图匹配)](#55)|[54.Emotion Perception(情绪感知/情感预测)](#54)|[53.Dataset(数据集)](#53)|
+|[60. SLAM/AR/Robot](#60)|[59.Deep learning model](#59)|[58.Metric Learning/Similarity learning](#58)|[57.Sign Language Recognition](#57)|
+|[56.Computational Photography](#56)|[55.Graph Matching](#55)|[54.Emotion Perception/Perception](#54)|[53.Dataset(数据集)](#53)|
 |[52. Image Generation/Synthesis(图像生成)](#52)|[51.Contrastive Learning(对比学习)](#51)|[50.OCR](#50)|[49.Adversarial Learning(对抗学习)](#49)|
 |[48.Image Representation(图像表示)](#48)|[47.Vision-Language(视觉语言)](#47)|[46.Human-Object Interaction(人物交互)](#46)|[45.Camera Localization(相机定位)](#45)|
 |[44. Image/video Captioning(图像/视频字幕)](#44)|[43.Active Learning(主动学习)](#43)|[42.Scene Flow Estimation(场景流估计)](#42)|[41. Representation Learning(表示学习（图像+字幕）)](#41)|
