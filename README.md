@@ -1,29 +1,30 @@
-# CVPR2021最新信息及已接收论文/代码(持续更新)
+# CVPR2021 Latest information and accepted papers/codes (continuous update)
 
 
-官网链接：http://cvpr2021.thecvf.com<br>
-开会时间：2021年6月19日-6月25日<br>
-论文接收公布时间：2021年2月28日<br>
+Official website link：http://cvpr2021.thecvf.com<br>
+Meeting time: June 19-June 25, 2021<br>
+Paper acceptance and publication time: February 28, 2021<br>
 
-接收论文IDs：<br>
+Receive paper IDs：<br>
 
-* [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
+* [CVPR 2021 accepts the list of papers! 27% acceptance rate!](https://yassouali.github.io/ml-blog/cvpr2021/)
 
+<!---
 # :exclamation::exclamation::exclamation:🌟🌟🌟 CVPR 2021 收录论文已全部公布，下载可在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。共计 1660 篇。
 
 # :exclamation::exclamation::exclamation:🌟🌟🌟 全部论文已粗略分类完毕，请查阅。
 
 ### :exclamation::exclamation::exclamation:注：后续论文的细致分类汇总将发布在公众号【OpenCV中文网】，敬请关注。
+--->
 
-
-# 目录
+# Contents
 
 |:dog:|:mouse:|:hamster:|:tiger:|
-|------|------|------|------|
-|[73.Object Re-identification(物体重识别)](#73)|[72.Gaze Estimation(视线估计)](#72)|[71.Image-to-Image Translation(图像到图像翻译)](#71)|[70.NLP(自然语言处理)](#70)|[69.Transfer learning(迁移学习)](#69)|
-|[68.Crowd Counting(计数)](#68)|[67.Defect Detection(缺陷检测)](#67)|[66.Optical Flow Estimation(光流估计)](#66)|[65.Style Transfer(风格迁移)](#65)
-|[64.Speech processing(语音处理)](#64)|[63.Image Processing(图像处理)](#63)|[62.Free-Hand Sketches(手绘草图识别)](#62)|[61.算法](#61)|
-|[60. SLAM/AR/机器人](#60)|[59.深度学习模型](#59)|[58.Metric Learning(度量学习/相似度学习)](#58)|[57.Sign Language Recognition(手语识别)](#57)|
+|-------|-------|------|-------|
+|[73.Object Re-identification](#73)|[72.Gaze Estimation](#72)|[71.Image-to-Image Translation](#71)|[70.NLP](#70)|[69.Transfer learning](#69)|
+|[68.Crowd Counting](#68)|[67.Defect Detection](#67)|[66.Optical Flow Estimation](#66)|[65.Style Transfer](#65)
+|[64.Speech processing](#64)|[63.Image Processing](#63)|[62.Free-Hand Sketches](#62)|[61.Algorithm](#61)|
+|[60. SLAM/AR/Robot](#60)|[59.Deep learning model](#59)|[58.Metric Learning/Similarity learning](#58)|[57.Sign Language Recognition(手语识别)](#57)|
 |[56.Computational Photography(光学、几何、光场成像、计算摄影)](#56)|[55.Graph Matching(图匹配)](#55)|[54.Emotion Perception(情绪感知/情感预测)](#54)|[53.Dataset(数据集)](#53)|
 |[52. Image Generation/Synthesis(图像生成)](#52)|[51.Contrastive Learning(对比学习)](#51)|[50.OCR](#50)|[49.Adversarial Learning(对抗学习)](#49)|
 |[48.Image Representation(图像表示)](#48)|[47.Vision-Language(视觉语言)](#47)|[46.Human-Object Interaction(人物交互)](#46)|[45.Camera Localization(相机定位)](#45)|
