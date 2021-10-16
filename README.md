@@ -43,75 +43,76 @@ Receive paper IDs：<br>
 
 <a name="74"/>
 
-## 74.Place Recognition(位置识别)
+## 74.Place Recognition
   * [SOE-Net: A Self-Attention and Orientation Encoding Network for Point Cloud Based Place Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Xia_SOE-Net_A_Self-Attention_and_Orientation_Encoding_Network_for_Point_Cloud_CVPR_2021_paper.pdf)<br>:open_mouth:oral:star:[code](https://github.com/Yan-Xia/SOE-Net)
 
 <a name="73"/>
 
-## 73.Object Re-identification(物体重识别)
+## 73.Object Re-identification
   * [Refining Pseudo Labels with Clustering Consensus over Generations for Unsupervised Object Re-identification](https://arxiv.org/abs/2106.06133)
 
 <a name="72"/>
 
-## 72.Gaze Estimation(视线估计)
+## 72.Gaze Estimation
 * [Weakly-Supervised Physically Unconstrained Gaze Estimation](https://arxiv.org/abs/2105.09803)<br>:open_mouth:oral:star:[code](https://github.com/NVlabs/weakly-supervised-gaze)
-* Gaze 目标检测
+* Gaze
   * [Dual Attention Guided Gaze Target Detection in the Wild](https://openaccess.thecvf.com/content/CVPR2021/papers/Fang_Dual_Attention_Guided_Gaze_Target_Detection_in_the_Wild_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/Crystal2333/DAM)
  
 <a name="71"/>
 
-## 71.Image-to-Image Translation(图像到图像翻译)
+## 71.Image-to-Image Translation
 * [High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network](https://arxiv.org/abs/2105.09188)<br>:star:[code](https://github.com/csjliang/LPTN)
-* [CoCosNet v2: Full-Resolution Correspondence Learning for Image Translation](https://arxiv.org/abs/2012.02047)<br>:open_mouth:oral:house:[project](https://tmux.top/publication/geosim/)<br>解读：[CoCosNet v2解锁“高配版”图像翻译](https://mp.weixin.qq.com/s/UIxdBXGN7sO8m01Q83PLew)
+* [CoCosNet v2: Full-Resolution Correspondence Learning for Image Translation](https://arxiv.org/abs/2012.02047)<br>:open_mouth:oral:house:[project](https://tmux.top/publication/geosim/)<br>
+Interpretation：[CoCosNet v2](https://mp.weixin.qq.com/s/UIxdBXGN7sO8m01Q83PLew)
 * [Smoothing the Disentangled Latent Style Space for Unsupervised Image-to-Image Translation](https://arxiv.org/abs/2106.09016)
 * [Saliency-Guided Image Translation](https://openaccess.thecvf.com/content/CVPR2021/papers/Jiang_Saliency-Guided_Image_Translation_CVPR_2021_paper.pdf)
 * [Not Just Compete, but Collaborate: Local Image-to-Image Translation via Cooperative Mask Prediction](https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_Not_Just_Compete_but_Collaborate_Local_Image-to-Image_Translation_via_Cooperative_CVPR_2021_paper.pdf) 
 * [Unpaired Image-to-Image Translation via Latent Energy Transport](https://arxiv.org/abs/2012.00649)<br>:star:[code](https://github.com/YangNaruto/latent-energy-transport)
-* 图像翻译
+* Image translation
   * [Unbalanced Feature Transport for Exemplar-Based Image Translation](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhan_Unbalanced_Feature_Transport_for_Exemplar-Based_Image_Translation_CVPR_2021_paper.pdf)
   * [The Spatially-Correlative Loss for Various Image Translation Tasks](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_The_Spatially-Correlative_Loss_for_Various_Image_Translation_Tasks_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/lyndonzheng/F-LSeSim):house:[project](http://www.chuanxiaz.com/publication/flsesim/):tv:[video](https://www.youtube.com/watch?v=pu6PT1om2r0)
 
 
 <a name="70"/>
 
-## 70.NLP(自然语言处理)
+## 70.NLP
 
   * [Learning Graphs for Knowledge Transfer With Limited Labels](https://openaccess.thecvf.com/content/CVPR2021/papers/Ghosh_Learning_Graphs_for_Knowledge_Transfer_With_Limited_Labels_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/pallabig/LearningGraphsForGCN):house:[project](https://pallabig.github.io/LearningGraphsForGCN/)
 
 
 <a name="69"/>
 
-## 69.Transfer learning(迁移学习)
-* 域迁移
+## 69.Transfer learning
+* Domain migration
   * [Visualizing Adapted Knowledge in Domain Transfer](https://arxiv.org/abs/2104.10602)<br>:star:[code](https://github.com/hou-yz/DA_visualization) 
 
 
 <a name="68"/>
 
-## 68.Crowd Counting(计数)
+## 68.Crowd Counting
   * [Learning To Count Everything](https://arxiv.org/abs/2104.08391)<br>:star:[code](https://github.com/cvlab-stonybrook)
 
 <a name="67"/>
 
-## 67.Defect Detection(缺陷检测)
+## 67.Defect Detection
   * [CutPaste: Self-Supervised Learning for Anomaly Detection and Localization](https://arxiv.org/abs/2104.04015)
 
 <a name="66"/>
 
-## 66.Optical Flow Estimation(光流估计)
-* [UPFlow:Upsampling Pyramid for Unsupervised Optical Flow Learning](https://arxiv.org/abs/2012.00212)<br>粗解：[8](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
+## 66.Optical Flow Estimation
+* [UPFlow:Upsampling Pyramid for Unsupervised Optical Flow Learning](https://arxiv.org/abs/2012.00212)<br>Rough solution：[8](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
 * [Learning Optical Flow from a Few Matches](https://arxiv.org/abs/2104.02166)<br>:star:[code](https://github.com/zacjiang/scv)
 * [Learning optical flow from still images](https://arxiv.org/abs/2104.03965)<br>:star:[code](https://github.com/mattpoggi/depthstillation):house:[project](https://mattpoggi.github.io/projects/cvpr2021aleotti/)
-* [AutoFlow: Learning a Better Training Set for Optical Flow](https://arxiv.org/abs/2104.14544)<br>:house:[project](https://autoflow-google.github.io/)<br>AutoFlow ：CVPR 2021 Oral ,作者发明了一种专为光流算法训练而设计的数据渲染方法，所训练得到的PWC-Net 与 RAFT光流算法达到了SOTA,代码和数据将开源。
+* [AutoFlow: Learning a Better Training Set for Optical Flow](https://arxiv.org/abs/2104.14544)<br>:house:[project](https://autoflow-google.github.io/)<br>AutoFlow ：CVPR 2021 Oral , The author invented a data rendering method specially designed for optical flow algorithm training. The trained PWC-Net and RAFT optical flow algorithms have reached SOTA, and the code and data will be open source.
 * [UPFlow: Upsampling Pyramid for Unsupervised Optical Flow Learning](https://arxiv.org/abs/2012.00212)<br>:star:[code](https://github.com/coolbeam/UPFlow_pytorch)
 
 <a name="65"/>
 
-## 65.Style Transfer(风格迁移)
+## 65.Style Transfer
 * [Rethinking Style Transfer: From Pixels to Parameterized Brushstrokes](https://arxiv.org/abs/2103.17185)<br>:star:[code](https://github.com/CompVis/brushstroke-parameterized-style-transfer)
 * [ArtFlow: Unbiased Image Style Transfer via Reversible Neural Flows](https://arxiv.org/abs/2103.16877)<br>:star:[code](https://github.com/pkuanjie/ArtFlow) 
 * [Lipstick ain't enough: Beyond Color Matching for In-the-Wild Makeup Transfer](https://arxiv.org/abs/2104.01867)<br>:star:[code](https://github.com/VinAIResearch/CPM)
-* [Rethinking and Improving the Robustness of Image Style Transfer](https://arxiv.org/abs/2104.05623)<br>:open_mouth:oral<br>解读：[CVPR2021 最佳论文候选—提高图像风格迁移的鲁棒性](https://mp.weixin.qq.com/s/OMu941IynGtY9GU8dh4Icg)
+* [Rethinking and Improving the Robustness of Image Style Transfer](https://arxiv.org/abs/2104.05623)<br>:open_mouth:oral<br>解读：[CVPR2021 Best Paper Candidate—Improve the robustness of image style transfer](https://mp.weixin.qq.com/s/OMu941IynGtY9GU8dh4Icg)
 * [Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer](https://arxiv.org/abs/2104.05376)<br>:star:[code](https://github.com/PaddlePaddle/PaddleGAN/)
 * [Style-Aware Normalized Loss for Improving Arbitrary Style Transfer](https://arxiv.org/abs/2104.10064)<br>:open_mouth:oral
 * [In the Light of Feature Distributions: Moment Matching for Neural Style Transfer](https://arxiv.org/abs/2103.07208)<br>:star:[code](https://github.com/D1noFuzi/cmd_styletransfer):house:[project](https://cmdnst.github.io/)
@@ -122,58 +123,57 @@ Receive paper IDs：<br>
 * [CT-Net: Complementary Transfering Network for Garment Transfer With Arbitrary Geometric Changes](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_CT-Net_Complementary_Transfering_Network_for_Garment_Transfer_With_Arbitrary_Geometric_CVPR_2021_paper.pdf)
 * [DualAST: Dual Style-Learning Networks for Artistic Style Transfer](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_DualAST_Dual_Style-Learning_Networks_for_Artistic_Style_Transfer_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/HalbertCH/DualAST)
 * [What Can Style Transfer and Paintings Do For Model Robustness?](https://arxiv.org/abs/2011.14477)<br>:star:[code](https://github.com/hubertsgithub/style_painting_robustness)
-* 运动迁移
-  * [Autoregressive Stylized Motion Synthesis with Generative Flow](https://openaccess.thecvf.com/content/CVPR2021/papers/Wen_Autoregressive_Stylized_Motion_Synthesis_With_Generative_Flow_CVPR_2021_paper.pdf)
+* [Autoregressive Stylized Motion Synthesis with Generative Flow](https://openaccess.thecvf.com/content/CVPR2021/papers/Wen_Autoregressive_Stylized_Motion_Synthesis_With_Generative_Flow_CVPR_2021_paper.pdf)
 
   
 <a name="64"/>
 
-## 64.Speech processing(语音处理)
+## 64.Speech processing
   
 * [Can audio-visual integration strengthen robustness under multimodal attacks?](https://arxiv.org/abs/2104.02000)<br>:star:[code](https://github.com/YapengTian/AV-Robustness-CVPR21)
 * [Robust Audio-Visual Instance Discrimination](https://arxiv.org/abs/2103.15916)
-* 立体音频生成
+* Stereo audio generation
   * [Visually Informed Binaural Audio Generation without Binaural Audios](https://arxiv.org/abs/2104.06162)<br>:star:[code](https://github.com/SheldonTsui/PseudoBinaural_CVPR2021):house:[project](https://sheldontsui.github.io/projects/PseudoBinaural):tv:[video](https://youtu.be/r-uC2MyAWQc)
-* 视听分离
+* Audiovisual separation
   * [Looking into Your Speech: Learning Cross-modal Affinity for Audio-visual Speech Separation](https://arxiv.org/abs/2104.02775)<br>:house:[project](https://caffnet.github.io/):tv:[video](https://youtu.be/9R2qQ7dGTp8)
   * [Cyclic Co-Learning of Sounding Object Visual Grounding and Sound Separation](https://arxiv.org/abs/2104.02026)<br>:star:[code](https://github.com/YapengTian/CCOL-CVPR21)
   * [VisualVoice: Audio-Visual Speech Separation With Cross-Modal Consistency](https://arxiv.org/abs/2101.03149)<br>:star:[code](https://github.com/facebookresearch/VisualVoice):house:[project](http://vision.cs.utexas.edu/projects/VisualVoice/)
-* 声音-视频解析
+* Audio-video analysis
   * [Exploring Heterogeneous Clues for Weakly-Supervised Audio-Visual Video Parsing](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Exploring_Heterogeneous_Clues_for_Weakly-Supervised_Audio-Visual_Video_Parsing_CVPR_2021_paper.pdf) 
 * A-V
   * [Positive Sample Propagation Along the Audio-Visual Event Line](https://arxiv.org/abs/2104.00239)<br>:star:[code](https://github.com/jasongief/PSP_CVPR_2021)
-* 语音人脸关联
+* voice face association
   * [Seeking the Shape of Sound: An Adaptive Framework for Learning Voice-Face Association](https://arxiv.org/abs/2103.07293)
 
 
 
 <a name="63"/>
 
-## 63.Image Processing(图像处理)
-* 图像信号处理
+## 63.Image Processing
+* Image signal processing
   * [Invertible Image Signal Processing](https://arxiv.org/abs/2103.15061)<br>:star:[code](https://github.com/yzxing87/Invertible-ISP):house:[project](https://yzxing87.github.io/InvISP/index.html)
-* 光谱重建
+* Spectral reconstruction
   * [Tuning IR-cut Filter for Illumination-aware Spectral Reconstruction from RGB](https://arxiv.org/abs/2103.14708)<br>:open_mouth:oral
 
 <a name="62"/>
 
-## 62.Free-Hand Sketches(手绘草图识别)
-  * [Cloud2Curve: Generation and Vectorization of Parametric Sketches](https://arxiv.org/abs/2103.15536)
+## 62.Free-Hand Sketches recognition 
+* [Cloud2Curve: Generation and Vectorization of Parametric Sketches](https://arxiv.org/abs/2103.15536)
 
 <a name="61"/>
 
-## 61.算法
-* 因果推理算法
+## 61.Algorithm
+* causal interference algorithm
   * [ACRE: Abstract Causal REasoning Beyond Covariation](https://arxiv.org/abs/2103.14232)<br>:star:[code](https://github.com/WellyZhang/ACRE):house:[project](http://wellyzhang.github.io/project/acre.html)
-* 抽象时空推理算法
+* Abstract spatiotemporal reasoning algorithm
   * [Abstract Spatial-Temporal Reasoning via Probabilistic Abduction and Execution](https://arxiv.org/abs/2103.14230)<br>:star:[code](https://github.com/WellyZhang/PrAE):house:[project](http://wellyzhang.github.io/project/prae.html)
 
 
 <a name="60"/>
 
-## 60. SLAM/AR/机器人
+## 60. SLAM/AR/robotics
 * [Tangent Space Backpropagation for 3D Transformation Groups](https://arxiv.org/abs/2103.12032)<br>:star:[code](https://github.com/princeton-vl/lietorch)
-* 视觉里程计
+* Visual odometer
   * [Generalizing to the Open World: Deep Visual Odometry with Online Adaptation](https://arxiv.org/abs/2103.15279)
 * 机器人
   * [Visual Room Rearrangement](https://arxiv.org/abs/2103.16544)<br>:open_mouth:oral:house:[project](https://ai2thor.allenai.org/rearrangement/):tv:[video](https://www.youtube.com/watch?v=1APxaOC9U-A)
