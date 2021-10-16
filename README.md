@@ -25,20 +25,20 @@ Receive paper IDs：<br>
 |[68.Crowd Counting](#68)|[67.Defect Detection](#67)|[66.Optical Flow Estimation](#66)|[65.Style Transfer](#65)
 |[64.Speech processing](#64)|[63.Image Processing](#63)|[62.Free-Hand Sketches](#62)|[61.Algorithm](#61)|
 |[60. SLAM/AR/Robot](#60)|[59.Deep learning model](#59)|[58.Metric Learning/Similarity learning](#58)|[57.Sign Language Recognition](#57)|
-|[56.Computational Photography](#56)|[55.Graph Matching](#55)|[54.Emotion Perception/Perception](#54)|[53.Dataset(数据集)](#53)|
-|[52. Image Generation/Synthesis(图像生成)](#52)|[51.Contrastive Learning(对比学习)](#51)|[50.OCR](#50)|[49.Adversarial Learning(对抗学习)](#49)|
-|[48.Image Representation(图像表示)](#48)|[47.Vision-Language(视觉语言)](#47)|[46.Human-Object Interaction(人物交互)](#46)|[45.Camera Localization(相机定位)](#45)|
-|[44. Image/video Captioning(图像/视频字幕)](#44)|[43.Active Learning(主动学习)](#43)|[42.Scene Flow Estimation(场景流估计)](#42)|[41. Representation Learning(表示学习（图像+字幕）)](#41)|
-|[40.Superpixel (超像素)](#40)|[39.Debiasing(去偏见)](#39)|[38.Class-Incremental learning(类增量学习)](#38)|[37.Continual Learning(持续学习)](#37)|
-|[36.Action Detection and Recognition(动作检测与识别)](#36)|[35.Image Clustering(图像聚类) ](#35)|[34.Image/Fine-Grained Classification(图像分类/细粒度分类)](#34)|[33.6D Pose Estimation(6D位姿估计)](#33)|
-|[32.View Synthesis(视图合成)](#32)|[31.Open-Set Recognition(开放集识别)](#31)|[30.Neural rendering(神经渲染)](#30)|[29.Human Pose Estimation(人体姿态估计)](#29)|
-|[28.Dense prediction(密集预测)](#28)|[27.Semantic Line Detection(语义线检测)](#27)|[26.Video Processing(视频相关技术)](#26)|[25.3D(三维视觉)](#25)|
-|[24.Reinforcement Learning(强化学习)](#24)|[23.Autonomous Driving(自动驾驶)](#23)|[22.Medical Imaging(医学影像)](#22)|[21.Transformer/Self-attention](#21)|
-|[20.Person Re-Identification(人员重识别)](#20)|[19.Quantization/Pruning/Knowledge Distillation/Model Compression(量化、剪枝、蒸馏、模型压缩/扩展与优化)](#19)|[18.Aeria/Drones/Satellite/RS Image(航空影像/无人机)](#18)|[17.Super-Resolution(超分辨率)](#17)|
-|[16.Visual Question Answering(视觉问答)](#16)|[15.GAN](#15)|[14.Few-Shot/Zero-Shot Learning,Domain Generalization/Adaptation(小/零样本学习，域适应，域泛化)](#14)|[13.Image/Video Retrieval(图像/视频检索)](#13)|
-|[12.Image Quality Assessment(图像质量评估)](#12)|[11. Face(人脸技术)](#11)|[10.Neural Architecture Search(神经架构搜索)](#10)|[9.Object Tracking(目标跟踪)](#9)
-|[8.Image Segmentation(图像分割)](#8)|[7.Object Detection(目标检测)](#7)|[6.Data Augmentation(数据增广)](#6)|[5.Anomaly Detection(异常检测)](#5)|
-|[4.Weakly Supervised/Semi-Supervised/Self-supervised/Unsupervised Learning(自/半/弱监督学习)](#4)|[3.Point Cloud(点云)](#3)|[2.Graph Neural Networks(图卷积网络GNN)](#2)|[1.Unkown(未分类)](#1)|
+|[56.Computational Photography](#56)|[55.Graph Matching](#55)|[54.Emotion Perception/Perception](#54)|[53.Dataset](#53)|
+|[52. Image Generation/Synthesis](#52)|[51.Contrastive Learning](#51)|[50.OCR](#50)|[49.Adversarial Learning](#49)|
+|[48.Image Representation](#48)|[47.Vision-Language](#47)|[46.Human-Object Interaction](#46)|[45.Camera Localization](#45)|
+|[44. Image/video Captioning](#44)|[43.Active Learning](#43)|[42.Scene Flow Estimation](#42)|[41. Representation Learning](#41)|
+|[40.Superpixel](#40)|[39.Debiasing](#39)|[38.Class-Incremental learning](#38)|[37.Continual Learning](#37)|
+|[36.Action Detection and Recognition](#36)|[35.Image Clustering](#35)|[34.Image/Fine-Grained Classification](#34)|[33.6D Pose Estimation](#33)|
+|[32.View Synthesis](#32)|[31.Open-Set Recognition](#31)|[30.Neural rendering](#30)|[29.Human Pose Estimation](#29)|
+|[28.Dense prediction](#28)|[27.Semantic Line Detection](#27)|[26.Video Processing](#26)|[25.3D vision](#25)|
+|[24.Reinforcement Learning](#24)|[23.Autonomous Driving](#23)|[22.Medical Imaging](#22)|[21.Transformer/Self-attention](#21)|
+|[20.Person Re-Identification](#20)|[19.Quantization/Pruning/Knowledge Distillation/Model Compression](#19)|[18.Aeria/Drones/Satellite/RS Image](#18)|[17.Super-Resolution](#17)|
+|[16.Visual Question Answering](#16)|[15.GAN](#15)|[14.Few-Shot/Zero-Shot Learning,Domain Generalization/Adaptation](#14)|[13.Image/Video Retrieval](#13)|
+|[12.Image Quality Assessment](#12)|[11. Face technology](#11)|[10.Neural Architecture Search](#10)|[9.Object Tracking](#9)
+|[8.Image Segmentation](#8)|[7.Object Detection](#7)|[6.Data Augmentation](#6)|[5.Anomaly Detection](#5)|
+|[4.Weakly Supervised/Semi-Supervised/Self-supervised/Unsupervised Learning](#4)|[3.Point Cloud](#3)|[2.Graph Neural Networks(GNN)](#2)|[1.Unkown](#1)|
 
 
 <a name="74"/>
